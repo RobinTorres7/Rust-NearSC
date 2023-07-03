@@ -69,4 +69,4 @@ Abrir un navegado con la url localhost:8099
 En la branch master podras encontrar todo lo aprendido del curso, redirijete a ella.
 
 # Diploma del curso :
-![]
+![](https://github.com/RobinTorres7/Rust-NearSC/blob/master/images/diploma-rust-blockchain.png)
